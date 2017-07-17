@@ -1,0 +1,88 @@
+.nav-pills{
+  font-family: Raleway;
+  font-size: 16px;
+  margin-bottom: 10%;
+}
+h5{
+  font-family: Annie Use Your Telescope;
+}
+
+body{
+ 
+  font-family: Raleway;
+  color: white;
+  background-size:cover;
+}
+h1{
+  padding:0;
+}
+.btn{
+  color:white !important;
+}
+.btn-twitter{
+  background:#4099FF;
+}
+.btn-github{
+  background: black;
+}
+.intro{
+  background-color: black;
+  opacity:.6;
+  padding:10px;
+  width:50%;
+    margin-right: auto;
+  margin-left:auto;
+  border-radius: 15px;
+    
+}
+.pageOne{
+  background:url("http://images.unsplash.com/photo-1485813727108-9b009dfab116?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;s=c9a218049b0af819a0ff5cb3643ab208");
+;
+  
+  background-size: cover;
+  height :700px;
+  margin-top:
+}
+
+.pageTwo {
+  background: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?dpr=1&amp;auto=format&amp;fit=crop&amp;w=1080&amp;h=721&amp;q=80&amp;cs=tinysrgb&amp;");
+  background-size: cover;
+  height: 700px;
+  
+}
+img{
+  margin-right:auto;
+  margin-left: auto;
+  border-radius: 50%;
+}
+.row{
+  padding-top: 7%
+}
+.pageThree{
+  
+  background:url("https://images.unsplash.com/photo-1496674205429-924b32acd421");
+  background-size: cover;
+  height: 700px;
+}
+.pageFour{
+  
+  background:url("https://images.unsplash.com/photo-1489844097929-c8d5b91c456e");
+  background-size: cover;
+  height: 750px;
+}
+.padingTop{
+  
+  padding-top:2%
+}
+.padingPort{
+  padding-top:2%;
+  color: black;
+}
+.me{
+  font-size: 20px;
+    background : black;
+  border-radius: 10px;
+}
+.footr{
+  padding-top: 200px;
+}
